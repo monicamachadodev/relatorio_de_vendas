@@ -1,4 +1,4 @@
-# Relatório de Vendas
+# Relatório de Vendas 📊 
 
 Este é um projeto de relatório de vendas que consiste em um dashboard criado no Power BI. O objetivo deste projeto é fornecer uma visualização intuitiva e interativa dos dados de vendas para facilitar a análise e tomada de decisões.
 
@@ -21,10 +21,9 @@ Para utilizar este dashboard, siga estas etapas:
 3. Explore as diferentes visualizações utilizando os botões de navegação e segmentadores.
 4. Analise os dados e tome decisões informadas com base nas informações apresentadas.
 
-## Contribuição
+## Contribuições
+Contribuições são bem-vindas! 🫶 
 
-Se você deseja contribuir para este projeto, sinta-se à vontade para enviar um pull request. Todas as contribuições são bem-vindas!
+Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias.
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)
