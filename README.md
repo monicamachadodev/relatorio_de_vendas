@@ -1,6 +1,6 @@
 # Relatório de Vendas 📊 
 
-Este é um projeto de relatório de vendas que consiste em um dashboard criado no Power BI. O objetivo deste projeto é fornecer uma visualização intuitiva e interativa dos dados de vendas para facilitar a análise e tomada de decisões.
+Este é um projeto de relatório de vendas da empresa DIO - Bootcamp Python Data Analytics que consiste em um dashboard criado no Power BI. O objetivo deste projeto é fornecer uma visualização intuitiva e interativa dos dados de vendas para facilitar a análise e tomada de decisões.
 
 ## Dashboard
 
